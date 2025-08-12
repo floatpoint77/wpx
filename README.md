@@ -78,4 +78,4 @@ Is It Worth It?
 Conclusion
 Over five years, I've seen WPX grow from a new hosting provider to an industry leader. Although it doesn't offer dynamic scalability, its stability makes me confident in recommending it. Those who want to try it can use the monthly payment plan with a 30-day refund guarantee, as what suits you best is the most important.
 
-WPX Hosting Official Website
+[WPX Hosting Official Website](https://yusubuda.com/go/wpx)
